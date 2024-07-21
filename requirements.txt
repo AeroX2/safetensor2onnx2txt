@@ -1,0 +1,6 @@
+diffusers
+torch
+onnxsim
+onnx
+numpy
+peft
